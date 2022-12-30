@@ -1,0 +1,27 @@
+﻿<html>
+    <head>
+        <title>
+            نموزج بيانات
+        </title>
+    </head>
+    <body dir="rtl"> 
+ادخل البيانات التالية بدقة:
+        <form action="">
+            الاسم<input type="text"><br> <br>
+            كلمة المرور<input type="password"><br> <br>
+            النوع: <br>
+            <input type="radio"nam="gen">زكر
+            <input type="radio"nam="gen">انثي<br> <br>
+            اللغات الاجنبية: <br>
+            <input type="checkbox">الاجنبية
+            <input type="checkbox">الفرنسية
+            <input type="checkbox">الالمانية <br>
+            <input type="reset"value="مسح">
+            <input type="submit"value="ارسال البيانات">
+            
+                
+       
+
+        </form>
+    </body>
+</html>
